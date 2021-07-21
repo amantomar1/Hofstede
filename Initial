@@ -1,0 +1,112 @@
+,ctr,country,pdi,idv,mas,uai,ltowvs,ivr,Initial
+0,AFE,Africa East,64,27,41,52,32,40,A
+1,AFW,Africa West,77,20,46,54,9,78,A
+2,ALB,Albania,0,0,0,0,61,15,A
+3,ALG,Algeria,0,0,0,0,26,32,A
+4,AND,Andorra,0,0,0,0,0,65,A
+5,ARA,Arab countries,80,38,53,68,23,34,A
+6,ARG,Argentina,49,46,56,86,20,62,A
+7,ARM,Armenia,0,0,0,0,61,0,A
+8,AUL,Australia,38,90,61,51,21,71,A
+9,AUT,Austria,11,55,79,70,60,63,A
+10,AZE,Azerbaijan,0,0,0,0,61,22,A
+11,BAN,Bangladesh,80,20,55,60,47,20,B
+12,BLR,Belarus,0,0,0,0,81,15,B
+13,BEL,Belgium,65,75,54,94,82,57,B
+14,BEF,Belgium French,67,72,60,93,0,0,B
+15,BEN,Belgium Netherl,61,78,43,97,0,0,B
+16,BOS,Bosnia,0,0,0,0,70,44,B
+17,BRA,Brazil,69,38,49,76,44,59,B
+18,BUL,Bulgaria,70,30,40,85,69,16,B
+19,BUF,Burkina Faso,0,0,0,0,27,18,B
+20,CAN,Canada,39,80,52,48,36,68,C
+21,CAF,Canada French,54,73,45,60,0,0,C
+22,CHL,Chile,63,23,28,86,31,68,C
+23,CHI,China,80,20,66,30,87,24,C
+24,COL,Colombia,67,13,64,80,13,83,C
+25,COS,Costa Rica,35,15,21,86,0,0,C
+26,CRO,Croatia,73,33,40,80,58,33,C
+27,CYP,Cyprus,0,0,0,0,0,70,C
+28,CZE,Czech Rep,57,58,57,74,70,29,C
+29,DEN,Denmark,18,74,16,23,35,70,D
+30,DOM,Dominican Rep,0,0,0,0,13,54,D
+31,ECA,Ecuador,78,8,63,67,0,0,E
+32,EGY,Egypt,0,0,0,0,7,4,E
+33,ETH,Ethiopia,0,0,0,0,0,46,E
+34,SAL,El Salvador,66,19,40,94,20,89,E
+35,EST,Estonia,40,60,30,60,82,16,E
+36,FIN,Finland,33,63,26,59,38,57,F
+37,FRA,France,68,71,43,86,63,48,F
+38,GEO,Georgia,0,0,0,0,38,32,G
+39,GER,Germany,35,67,66,65,83,40,G
+40,GEE,Germany East,0,0,0,0,78,34,G
+41,GHA,Ghana,0,0,0,0,4,72,G
+42,GBR,Great Britain,35,89,66,35,51,69,G
+43,GRE,Greece,60,35,57,112,45,50,G
+44,GUA,Guatemala,95,6,37,101,0,0,G
+45,HOK,Hong Kong,68,25,57,29,61,17,H
+46,HUN,Hungary,46,80,88,82,58,31,H
+47,ICE,Iceland,0,0,0,0,28,67,I
+48,IND,India,77,48,56,40,51,26,I
+49,IDO,Indonesia,78,14,46,48,62,38,I
+50,IRA,Iran,58,41,43,59,14,40,I
+51,IRQ,Iraq,0,0,0,0,25,17,I
+52,IRE,Ireland,28,70,68,35,24,65,I
+53,ISR,Israel,13,54,47,81,38,0,I
+54,ITA,Italy,50,76,70,75,61,30,I
+55,JAM,Jamaica,45,39,68,13,0,0,J
+56,JPN,Japan,54,46,95,92,88,42,J
+57,JOR,Jordan,0,0,0,0,16,43,J
+58,KOR,Korea South,60,18,39,85,100,29,K
+59,KYR,Kyrgyz Rep,0,0,0,0,66,39,K
+60,LAT,Latvia,44,70,9,63,69,13,L
+61,LIT,Lithuania,42,60,19,65,82,16,L
+62,LUX,Luxembourg,40,60,50,70,64,56,L
+63,MAC,Macedonia Rep,0,0,0,0,62,35,M
+64,MAL,Malaysia,104,26,50,36,41,57,M
+65,MLI,Mali,0,0,0,0,20,43,M
+66,MLT,Malta,56,59,47,96,47,66,M
+67,MEX,Mexico,81,30,69,82,24,97,M
+68,MOL,Moldova,0,0,0,0,71,19,M
+69,MNG,Montenegro,0,0,0,0,75,20,M
+70,MOR,Morocco,70,46,53,68,14,25,M
+71,NET,Netherlands,38,80,14,53,67,68,N
+72,NZL,New Zealand,22,79,58,49,33,75,N
+73,NIG,Nigeria,0,0,0,0,13,84,N
+74,NOR,Norway,31,69,8,50,35,55,N
+75,PAK,Pakistan,55,14,50,70,50,0,P
+76,PAN,Panama,95,11,44,86,0,0,P
+77,PER,Peru,64,16,42,87,25,46,P
+78,PHI,Philippines,94,32,64,44,27,42,P
+79,POL,Poland,68,60,64,93,38,29,P
+80,POR,Portugal,63,27,31,104,28,33,P
+81,PUE,Puerto Rico,0,0,0,0,0,90,P
+82,ROM,Romania,90,30,42,90,52,20,R
+83,RUS,Russia,93,39,36,95,81,20,R
+84,RWA,Rwanda,0,0,0,0,18,37,R
+85,SAU,Saudi Arabia,0,0,0,0,36,52,S
+86,SER,Serbia,86,25,43,92,52,28,S
+87,SIN,Singapore,74,20,48,8,72,46,S
+88,SLK,Slovak Rep,104,52,110,51,77,28,S
+89,SLV,Slovenia,71,27,19,88,49,48,S
+90,SAF,South Africa,0,0,0,0,34,63,S
+91,SAW,South Africa white,49,65,63,49,0,0,S
+92,SPA,Spain,57,51,42,86,48,44,S
+93,SUR,Suriname,85,47,37,92,0,0,S
+94,SWE,Sweden,31,71,5,29,53,78,S
+95,SWI,Switzerland,34,68,70,58,74,66,S
+96,SWF,Switzerland French,70,64,58,70,0,0,S
+97,SWG,Switzerland German,26,69,72,56,0,0,S
+98,TAI,Taiwan,58,17,45,69,93,49,T
+99,TAN,Tanzania,0,0,0,0,34,38,T
+100,THA,Thailand,64,20,34,64,32,45,T
+101,TRI,Trinidad and Tobago,47,16,58,55,13,80,T
+102,TUR,Turkey,66,37,45,85,46,49,T
+103,USA,U.S.A.,40,91,62,46,26,68,U
+104,UGA,Uganda,0,0,0,0,24,52,U
+105,UKR,Ukraine,0,0,0,0,86,14,U
+106,URU,Uruguay,61,36,38,100,26,53,U
+107,VEN,Venezuela,81,12,73,76,16,100,V
+108,VIE,Vietnam,70,20,40,30,57,35,V
+109,ZAM,Zambia,0,0,0,0,30,42,Z
+110,ZIM,Zimbabwe,0,0,0,0,15,28,Z
